@@ -31,4 +31,4 @@ print(cabinet.items())
 #다삭제
 cabinet.clear
 print(cabinet)
-
+ 
